@@ -1,54 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100;1,400&display=swap');
 
+.Container {
+    width: 100%;
+    margin: 72px auto;
+    text-align: center;
+    padding: 0px 37px;
+    box-sizing: border-box;
+}
+
 #header1 {
     
     font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 15vw;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+#other_h {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 5vw;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 #im {
     font-family: 'Raleway', sans-serif;
     
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 2vw;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
+
 
 
 body {
-    background-color: yellow;
+    background-color: purple;
 }
 
- /* Add a black background color to the top navigation */
- .topnav {
-    background-color: yellowgreen;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  /* Add an active class to highlight the current page */
-  .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
-  
-  /* Hide the link that should open and close the topnav on small screens */
-  .topnav .icon {
-    display: none;
-  } 
