@@ -26,6 +26,11 @@
     margin-bottom: 20px;
 }
 
+#social_icon {
+    height: auto;
+    width: 7%;
+}
+
 #im {
     font-family: 'Raleway', sans-serif;
     
