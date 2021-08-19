@@ -47,7 +47,19 @@
     margin-bottom: 40px;
 }
 
+#title {
+    font-family: 'Raleway', sans-serif;
+}
 
+#desc {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2vw;
+}
+
+.proj img#social_icon {
+    height: auto;
+    width: 2%;
+}
 
 body {
     background-color: yellowgreen;
