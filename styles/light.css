@@ -61,6 +61,10 @@
     width: 2%;
 }
 
+body .Contact {
+    padding: 40px;
+}
+
 body {
     background-color: yellowgreen;
     opacity: .8;
