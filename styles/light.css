@@ -18,12 +18,13 @@
 }
 
 
-#other_h {
+h1#other_h {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 3vw;
     margin-top: 10px;
     margin-bottom: 20px;
+    padding-bottom: 2vw;
 }
 
 
@@ -59,14 +60,32 @@
 .proj img#social_icon {
     height: auto;
     width: 2%;
+    padding-bottom: 2vw;
 }
 
 body .Contact {
-    padding: 40px;
+    padding: 2vw;
+}
+
+body .stuff-i-use .stuff #social_icon {
+    height: auto;
+    width: 2vw;
+}
+
+body .stuff-i-use {
+    padding-bottom: 2vw;
+}
+
+body img#pet-food {
+    height: auto;
+    width: 2vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
 }
 
 body {
     background-color: yellowgreen;
     opacity: .8;
 }
+
 
