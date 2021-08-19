@@ -12,7 +12,7 @@
     
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 15vw;
+    font-size: 7vw;
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -21,14 +21,21 @@
 #other_h {
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 5vw;
+    font-size: 3vw;
     margin-top: 10px;
     margin-bottom: 20px;
 }
+img#social_icon:hover {
+    width: 5%;
+}
 
-#social_icon {
+.Social {
+    margin-top: 30px;
+}
+
+.Social img#social_icon {
     height: auto;
-    width: 4%;
+    width: 3%;
     margin-right: 10px;
     margin-left: 10px;
 }
@@ -45,6 +52,7 @@
 
 
 body {
-    background-color: yellow;
+    background-color: yellowgreen;
+    opacity: .8;
 }
 
