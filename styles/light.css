@@ -83,9 +83,13 @@ body img#pet-food {
     padding-bottom: 2vw;
 }
 
-body {
-    background-color: darkkhaki;
+.body {
+    background-color: greenyellow;
     opacity: .8;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 
