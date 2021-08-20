@@ -4,7 +4,7 @@
     width: 100%;
     margin: 72px auto;
     text-align: center;
-    padding: 0px 37px;
+    padding: 5vw;
     box-sizing: border-box;
 }
 
@@ -27,16 +27,28 @@ h1#other_h {
 }
 
 
+.social_links {
+    margin: 20px;
+    height: 4vw;
+}
+
 .Social {
     margin-top: 30px;
 }
 
-.Social img#social_icon {
+.hover_enlarge:hover {
+    height: auto;
+    width: 3.5%;
+}
+
+.social_icon {
     height: auto;
     width: 3%;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
 }
+
+
 
 #im {
     font-family: 'Raleway', sans-serif;
@@ -47,8 +59,9 @@ h1#other_h {
     margin-bottom: 40px;
 }
 
-#title {
+.title {
     font-family: 'Raleway', sans-serif;
+    margin: auto;
 }
 
 #desc {
@@ -59,6 +72,7 @@ h1#other_h {
 .proj img#social_icon {
     height: auto;
     width: 2%;
+    margin: 2vw;
     padding-bottom: 2vw;
 }
 
