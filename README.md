@@ -2,4 +2,4 @@
 
 My first site! And my first try on HTML, CSS.
 
-It's not profession nor properly planned. It just looks cool!
+It's not professional nor properly planned. It just looks cool!
